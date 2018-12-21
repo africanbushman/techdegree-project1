@@ -1,6 +1,6 @@
 # Treehouse Techdegree Project 1
 
-This project is made to showcase the fact that i have a basic understanding of html, css and javascript.
+This project is made to showcase the fact that i have a basic understanding of html, css and javascript. By creating a random quote generator.
 
 
 ### Prerequisites
